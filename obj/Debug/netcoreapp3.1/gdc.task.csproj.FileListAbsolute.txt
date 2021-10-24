@@ -1,0 +1,14 @@
+C:\Users\Liza\source\repos\gdc.task\bin\Debug\netcoreapp3.1\gdc.task.exe
+C:\Users\Liza\source\repos\gdc.task\bin\Debug\netcoreapp3.1\gdc.task.deps.json
+C:\Users\Liza\source\repos\gdc.task\bin\Debug\netcoreapp3.1\gdc.task.runtimeconfig.json
+C:\Users\Liza\source\repos\gdc.task\bin\Debug\netcoreapp3.1\gdc.task.runtimeconfig.dev.json
+C:\Users\Liza\source\repos\gdc.task\bin\Debug\netcoreapp3.1\gdc.task.dll
+C:\Users\Liza\source\repos\gdc.task\bin\Debug\netcoreapp3.1\gdc.task.pdb
+C:\Users\Liza\source\repos\gdc.task\obj\Debug\netcoreapp3.1\gdc.task.csproj.AssemblyReference.cache
+C:\Users\Liza\source\repos\gdc.task\obj\Debug\netcoreapp3.1\gdc.task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liza\source\repos\gdc.task\obj\Debug\netcoreapp3.1\gdc.task.AssemblyInfoInputs.cache
+C:\Users\Liza\source\repos\gdc.task\obj\Debug\netcoreapp3.1\gdc.task.AssemblyInfo.cs
+C:\Users\Liza\source\repos\gdc.task\obj\Debug\netcoreapp3.1\gdc.task.csproj.CoreCompileInputs.cache
+C:\Users\Liza\source\repos\gdc.task\obj\Debug\netcoreapp3.1\gdc.task.dll
+C:\Users\Liza\source\repos\gdc.task\obj\Debug\netcoreapp3.1\gdc.task.pdb
+C:\Users\Liza\source\repos\gdc.task\obj\Debug\netcoreapp3.1\gdc.task.genruntimeconfig.cache
